@@ -1,0 +1,2 @@
+import './commonjs';
+import './module';
